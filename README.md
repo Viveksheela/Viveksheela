@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 # 👋 Hi, I'm Vivek Sheela!<br><br>### About Me<br>I'm a passionate **Full Stack Developer** and a **Software Engineer** currently working at **Atya Technologies Pvt. Ltd.**. I love crafting robust and scalable web applications that create meaningful impacts for users.<br><br>- 💻 I have experience in building both frontend and backend systems.<br>- 🌱 I’m continuously learning new technologies and striving to improve my skills.<br>- 💡 I enjoy working on complex problems and developing efficient solutions.<br>- 📊 I have a keen interest in dashboard services, especially for sectors like **pharmaceutical** and **agriculture**.
 
 
