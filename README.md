@@ -1,5 +1,7 @@
 👋 Hi, I'm Vivek Sheela!<br><br><br>I'm a passionate **Full Stack Developer** and a **Software Engineer** currently working at **Atya Technologies Pvt. Ltd.**. I love crafting robust and scalable web applications that create meaningful impacts for users.<br><br>- 💻 I have experience in building both frontend and backend systems.<br>- 🌱 I’m continuously learning new technologies and striving to improve my skills.<br>- 💡 I enjoy working on complex problems and developing efficient solutions.<br>- 📊 I have a keen interest in dashboard services, especially for sectors like **pharmaceutical** and **agriculture**.
 
+Checkout my Linktree :- https://linktr.ee/Vivekvicky_17
+
 
 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/vivekvicky19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/vivek-sheela) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@viveksheela1707) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/viveksheela1707/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@shutterzvivek6225) 
